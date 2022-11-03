@@ -1,10 +1,14 @@
 import React, { useState } from 'react';
-import './App.css'
+import Calculator from './components/Calculator';
+import Header from './components/Header';
+
 
 function App() {
 
   return (
-    <div className="">
+    <div className="bg-slate-800 h-screen w-screen">
+      <Header />
+      <Calculator />
     </div>
   )
 }
