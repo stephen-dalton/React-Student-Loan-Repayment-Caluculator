@@ -1,5 +1,7 @@
 import React, { useState } from "react";
-
+import { QueryClient, useQuery } from "react-query";
+import axios from "axios";
+import { GET_COUNTRIES } from "../api/queries";
 export default function SalaryInput({
   setGlobalSalary,
   setglobalUGLoan,
@@ -7,6 +9,12 @@ export default function SalaryInput({
 }) {
   const [userSalary, setUserSalary] = useState(0);
   const [userUGLoan, setUGLoan] = useState(0);
+
+  const queryClient = new QueryClient();
+
+  const { isLoading, isFetching, error, data } = useQuery(["countries"], () =>
+    axios(GET_COUNTRIES).then((res) => res.data)
+  );
 
   const handleSalaryInputChange = (e) => {
     setUserSalary(e.target.value);
@@ -18,6 +26,24 @@ export default function SalaryInput({
     e.preventDefault();
     calculateUGRepaymentAmount(userSalary, userUGLoan);
   };
+
+  if (isFetching || isLoading) {
+    return (
+      <section className="container mx-auto w-11/12 rounded bg-white/50 pb-5 backdrop-blur">
+        <div className="animate-pulse">
+          <div className="mx-auto block w-11/12 py-5">
+            <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
+            <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
+          </div>
+          <div className="mx-auto block w-11/12 pb-5">
+            <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
+            <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
+          </div>
+          <div className="mx-auto block h-10 w-11/12 rounded-md bg-slate-800 py-3 px-2"></div>
+        </div>
+      </section>
+    );
+  }
 
   return (
     <section className="container mx-auto w-11/12 rounded bg-white/50 pb-5 backdrop-blur">
