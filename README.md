@@ -1,3 +1,3 @@
 Student Loan Repayment Calculator
 
-![UK Flag](./public/UK.svg) UK Students Only
+![UK Flag](./frontend/public/UK.svg) UK Students Only
