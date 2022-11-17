@@ -1,23 +1,16 @@
 import express from "express";
 import { graphqlHTTP } from "express-graphql";
 import { schema, root } from "./graphql/schema.js";
+import cors from "cors";
 const app = express();
 
 /**
  * Add Express Configuration for CORS Support.
  */
-app.use((req, res, next) => {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader(
-    "Access-Control-Allow-Methods",
-    "GET, POST, PUT, PATCH, DELETE"
-  );
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type, Authorization");
-  next();
-});
+app.use(cors());
 
 app.use(
-  "/api",
+  "/___api",
   graphqlHTTP({
     schema: schema,
     rootValue: root,
