@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-import { QueryClient, useQuery } from "react-query";
-import axios from "axios";
-import { GET_COUNTRIES } from "../api/queries";
+import { useGetCountries } from "../api/queries";
 export default function SalaryInput({
   setGlobalSalary,
   setglobalUGLoan,
@@ -10,11 +8,7 @@ export default function SalaryInput({
   const [userSalary, setUserSalary] = useState(0);
   const [userUGLoan, setUGLoan] = useState(0);
 
-  const queryClient = new QueryClient();
-
-  // const { isLoading, isFetching, error, data } = useQuery(["countries"], () =>
-  //   axios(GET_COUNTRIES).then((res) => res.data)
-  // );
+  const { data, error, isFetching, isLoading } = useGetCountries();
 
   const handleSalaryInputChange = (e) => {
     setUserSalary(e.target.value);
@@ -52,7 +46,7 @@ export default function SalaryInput({
     <section className="container mx-auto w-11/12 rounded bg-white/50 py-5 backdrop-blur">
       <form onSubmit={handleSalarySubmission}>
         <label
-          for="countries"
+          htmlFor="countries"
           className="mx-auto block w-11/12 text-base font-bold text-slate-800"
         >
           Choose your location
@@ -98,7 +92,7 @@ export default function SalaryInput({
             className="h-5 w-5 rounded border-gray-300 bg-gray-100 text-blue-600 focus:ring-2 focus:ring-blue-500"
           />
           <label
-            for="postgraduate"
+            htmlFor="postgraduate"
             className="mx-auto ml-2 w-11/12 text-base font-bold text-slate-800"
           >
             Do you have a postgraduate loan?
