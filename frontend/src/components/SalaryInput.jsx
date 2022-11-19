@@ -1,14 +1,13 @@
 import React, { useState } from "react";
-import { useEffect } from "react";
 import { useGetCountries } from "../api/queries";
 export default function SalaryInput({
-  setGlobalSalary,
-  setglobalUGLoan,
+  hasPostgradLoan,
+  selectedCountry,
+  setHasPostgradLoan,
+  setSelectedCountry,
   calculateUGRepaymentAmount,
 }) {
   const [userSalary, setUserSalary] = useState(0);
-  const [selectedCountry, setSelectedCountry] = useState({});
-  const [hasPostgradLoan, setHasPostgradLoan] = useState(false);
 
   const { data, error, isFetching, isLoading } = useGetCountries();
   // console.log(data);
@@ -18,7 +17,7 @@ export default function SalaryInput({
   };
   const handleSalarySubmission = (e) => {
     e.preventDefault();
-    calculateUGRepaymentAmount(userSalary, selectedCountry);
+    calculateUGRepaymentAmount(userSalary, selectedCountry, hasPostgradLoan);
   };
   const handlePostgradChange = (e) => {
     setHasPostgradLoan(!hasPostgradLoan);
@@ -107,3 +106,5 @@ export default function SalaryInput({
     </section>
   );
 }
+
+//TODO conitionally render loading block, then render post graduate loan repyament!!
