@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { useEffect } from "react";
 import { useGetCountries } from "../api/queries";
 export default function SalaryInput({
   setGlobalSalary,
@@ -7,8 +8,10 @@ export default function SalaryInput({
 }) {
   const [userSalary, setUserSalary] = useState(0);
   const [userUGLoan, setUGLoan] = useState(0);
+  const [selectedCountry, setSelectedCountry] = useState({});
 
   const { data, error, isFetching, isLoading } = useGetCountries();
+  // console.log(data);
 
   const handleSalaryInputChange = (e) => {
     setUserSalary(e.target.value);
@@ -18,29 +21,37 @@ export default function SalaryInput({
   };
   const handleSalarySubmission = (e) => {
     e.preventDefault();
-    calculateUGRepaymentAmount(userSalary, userUGLoan);
+    calculateUGRepaymentAmount(userSalary, userUGLoan, selectedCountry);
+  };
+  const handleCountrySelect = (e) => {
+    const selectedCountry = e.target.value;
+    const country = data.countries.find(
+      ({ country }) => country === selectedCountry
+    );
+    setSelectedCountry(country);
   };
 
-  // if (isFetching || isLoading) {
-  //   return (
-  //     <section className="container mx-auto w-11/12 rounded bg-white/50 pb-5 backdrop-blur">
-  //       <div className="animate-pulse">
-  //         <div className="mx-auto block w-11/12 py-5">
-  //           <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
-  //           <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
-  //         <div className="mx-auto block w-11/12 py-5">
-  //           <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
-  //           <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
-  //         </div>
-  //         <div className="mx-auto block w-11/12 pb-5">
-  //           <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
-  //           <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
-  //         </div>
-  //         <div className="mx-auto block h-10 w-11/12 rounded-md bg-slate-800 py-3 px-2"></div>
-  //       </div>
-  //     </section>
-  //   );
-  // }
+  if (isFetching || isLoading) {
+    return (
+      <section className="container mx-auto w-11/12 rounded bg-white/50 pb-5 backdrop-blur">
+        <div className="animate-pulse">
+          <div className="mx-auto block w-11/12 py-5">
+            <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
+            <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
+          </div>
+          <div className="mx-auto block w-11/12 py-5">
+            <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
+            <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
+          </div>
+          <div className="mx-auto block w-11/12 pb-5">
+            <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
+            <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
+          </div>
+          <div className="mx-auto block h-10 w-11/12 rounded-md bg-slate-800 py-3 px-2"></div>
+        </div>
+      </section>
+    );
+  }
 
   return (
     <section className="container mx-auto w-11/12 rounded bg-white/50 py-5 backdrop-blur">
@@ -55,13 +66,18 @@ export default function SalaryInput({
           name="countries"
           id="countries"
           className="mx-auto block w-11/12 rounded-md"
+          onChange={handleCountrySelect}
         >
-          <option value="United Kingdom">United Kingdom</option>
-          <option value="Ireland">Ireland</option>
+          <option>Select Country</option>
+          {data.countries.map((country) => (
+            <option key={country._id} value={country.country}>
+              {country.country}
+            </option>
+          ))}
         </select>
         <label htmlFor="salary-input" className="mx-auto block w-11/12 py-5">
           <span className="mx-auto w-11/12 text-base font-bold text-slate-800">
-            Enter Your Annual Gross Salary
+            Enter Your Annual Gross Salary in {selectedCountry.currency}
           </span>
           <input
             type="number"

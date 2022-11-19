@@ -9,14 +9,15 @@ function Calculator() {
   const [canNotRepay, setCanNotRepay] = useState(false);
   const [repaymentAmount, setRepaymentAmount] = useState(0);
 
-  const calculateUGRepaymentAmount = (userSalary, loanAmount) => {
+  const calculateUGRepaymentAmount = (userSalary, loanAmount, country) => {
     setCanNotRepay(false);
-    if (userSalary < ANNUAL_SALARY_THRESHOLD) {
+    const salaryConvertedToGBP = userSalary * country.exchange_rate;
+    if (salaryConvertedToGBP < ANNUAL_SALARY_THRESHOLD) {
       console.log(userSalary);
       setCanNotRepay(true);
       return null;
     }
-    const salaryDiff = userSalary - ANNUAL_SALARY_THRESHOLD;
+    const salaryDiff = salaryConvertedToGBP - ANNUAL_SALARY_THRESHOLD;
     const monthlyAmount = (salaryDiff * DIFF_PERCENT) / 12;
     setRepaymentAmount(monthlyAmount.toFixed(2));
   };
