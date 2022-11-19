@@ -9,7 +9,7 @@ function Calculator() {
   const [canNotRepay, setCanNotRepay] = useState(false);
   const [repaymentAmount, setRepaymentAmount] = useState(0);
 
-  const calculateUGRepaymentAmount = (userSalary, loanAmount, country) => {
+  const calculateUGRepaymentAmount = (userSalary, country) => {
     setCanNotRepay(false);
     const salaryConvertedToGBP = userSalary * country.exchange_rate;
     if (salaryConvertedToGBP < ANNUAL_SALARY_THRESHOLD) {

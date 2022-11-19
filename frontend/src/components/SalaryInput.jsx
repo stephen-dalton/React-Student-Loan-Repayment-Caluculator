@@ -7,7 +7,6 @@ export default function SalaryInput({
   calculateUGRepaymentAmount,
 }) {
   const [userSalary, setUserSalary] = useState(0);
-  const [userUGLoan, setUGLoan] = useState(0);
   const [selectedCountry, setSelectedCountry] = useState({});
 
   const { data, error, isFetching, isLoading } = useGetCountries();
@@ -16,12 +15,9 @@ export default function SalaryInput({
   const handleSalaryInputChange = (e) => {
     setUserSalary(e.target.value);
   };
-  const handleUGLoanInputChange = (e) => {
-    setUGLoan(e.target.value);
-  };
   const handleSalarySubmission = (e) => {
     e.preventDefault();
-    calculateUGRepaymentAmount(userSalary, userUGLoan, selectedCountry);
+    calculateUGRepaymentAmount(userSalary, selectedCountry);
   };
   const handleCountrySelect = (e) => {
     const selectedCountry = e.target.value;
@@ -86,19 +82,6 @@ export default function SalaryInput({
             className=" focus:ring- focus:ring-opacity-2 mx-auto mt-1 block w-full appearance-none  rounded-md border-gray-300 shadow-sm focus:border-slate-800 focus:ring-2"
             value={userSalary}
             onChange={handleSalaryInputChange}
-          />
-        </label>
-        <label htmlFor="ugrad-input" className="mx-auto block w-11/12 pb-5">
-          <span className="mx-auto w-11/12 text-base font-bold text-slate-800">
-            Enter Your Undergraduate Loan Amount in GBP(£)
-          </span>
-          <input
-            type="number"
-            id="ugrad-input"
-            className=" focus:ring- focus:ring-opacity-2 mx-auto mt-1 block w-full appearance-none  rounded-md border-gray-300 shadow-sm focus:border-slate-800 focus:ring-2"
-            required
-            value={userUGLoan}
-            onChange={handleUGLoanInputChange}
           />
         </label>
         <div className="mx-auto flex w-11/12 items-center pb-5">
