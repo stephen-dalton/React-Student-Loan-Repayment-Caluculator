@@ -33,7 +33,7 @@ export default function SalaryInput({
 
   if (isFetching || isLoading) {
     return (
-      <section className="container mx-auto w-11/12 rounded bg-white/50 pb-5 backdrop-blur">
+      <section className="container mx-auto w-11/12 rounded bg-white/50 pb-5 backdrop-blur sm:w-6/12 md:w-8/12 lg:w-6/12">
         <div className="animate-pulse">
           <div className="mx-auto block w-11/12 py-5">
             <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
@@ -54,7 +54,7 @@ export default function SalaryInput({
   }
 
   return (
-    <section className="container mx-auto w-11/12 rounded bg-white/50 py-5 backdrop-blur">
+    <section className="container mx-auto w-11/12 rounded bg-white/50 py-5 backdrop-blur sm:w-6/12 md:w-8/12 lg:w-6/12">
       <form onSubmit={handleSalarySubmission}>
         <label
           htmlFor="countries"
@@ -82,21 +82,21 @@ export default function SalaryInput({
           <input
             type="number"
             id="salary-input"
+            required
             className=" focus:ring- focus:ring-opacity-2 mx-auto mt-1 block w-full appearance-none  rounded-md border-gray-300 shadow-sm focus:border-slate-800 focus:ring-2"
-            placeholder="40000"
             value={userSalary}
             onChange={handleSalaryInputChange}
           />
         </label>
         <label htmlFor="ugrad-input" className="mx-auto block w-11/12 pb-5">
           <span className="mx-auto w-11/12 text-base font-bold text-slate-800">
-            Enter Your Undergraduate Loan Amount
+            Enter Your Undergraduate Loan Amount in GBP(£)
           </span>
           <input
             type="number"
             id="ugrad-input"
             className=" focus:ring- focus:ring-opacity-2 mx-auto mt-1 block w-full appearance-none  rounded-md border-gray-300 shadow-sm focus:border-slate-800 focus:ring-2"
-            placeholder="40000"
+            required
             value={userUGLoan}
             onChange={handleUGLoanInputChange}
           />
