@@ -8,6 +8,7 @@ export default function SalaryInput({
 }) {
   const [userSalary, setUserSalary] = useState(0);
   const [selectedCountry, setSelectedCountry] = useState({});
+  const [hasPostgradLoan, setHasPostgradLoan] = useState(false);
 
   const { data, error, isFetching, isLoading } = useGetCountries();
   // console.log(data);
@@ -18,6 +19,9 @@ export default function SalaryInput({
   const handleSalarySubmission = (e) => {
     e.preventDefault();
     calculateUGRepaymentAmount(userSalary, selectedCountry);
+  };
+  const handlePostgradChange = (e) => {
+    setHasPostgradLoan(!hasPostgradLoan);
   };
   const handleCountrySelect = (e) => {
     const selectedCountry = e.target.value;
@@ -31,10 +35,6 @@ export default function SalaryInput({
     return (
       <section className="container mx-auto w-11/12 rounded bg-white/50 pb-5 backdrop-blur sm:w-6/12 md:w-8/12 lg:w-6/12">
         <div className="animate-pulse">
-          <div className="mx-auto block w-11/12 py-5">
-            <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
-            <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
-          </div>
           <div className="mx-auto block w-11/12 py-5">
             <p className="mr-auto mb-2 block h-5 w-1/2 rounded bg-gray-300 text-slate-800"></p>
             <p className="mx-auto mt-1 block h-10 w-full rounded-md border-gray-300 bg-gray-300 shadow-sm" />
@@ -88,6 +88,8 @@ export default function SalaryInput({
           <input
             type="checkbox"
             id="postgraduate"
+            checked={hasPostgradLoan}
+            onChange={handlePostgradChange}
             className="h-5 w-5 rounded border-gray-300 bg-gray-100 text-blue-600 focus:ring-2 focus:ring-blue-500"
           />
           <label
