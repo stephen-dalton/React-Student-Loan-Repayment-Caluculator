@@ -66,7 +66,7 @@ export default function SalaryInput({
         >
           <option>Select Country</option>
           {data.countries.map((country) => (
-            <option key={country._id} value={country.country}>
+            <option key={country.id} value={country.country}>
               {country.country}
             </option>
           ))}

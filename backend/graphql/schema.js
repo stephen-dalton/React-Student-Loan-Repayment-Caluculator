@@ -10,7 +10,7 @@ export const schema = buildSchema(`
     countries: [CountryType]
   }
   type CountryType {
-    _id: ID
+    id: ID
     country: String
     currency: String
     exchange_rate: Float

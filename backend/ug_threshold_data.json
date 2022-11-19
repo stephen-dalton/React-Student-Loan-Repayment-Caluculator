@@ -1,0 +1,2216 @@
+[
+  {
+    "id": "4a658681-ce4d-4803-969f-7bcfb102353e",
+    "country": "Afghanistan",
+    "currency": "Afghanis",
+    "exchange_rate": 0.010752,
+    "lower_earning_threshold": 5460,
+    "higher_earning_threshold": 9830,
+    "fixed_monthly_repayment": "£40.20"
+  },
+  {
+    "id": "15e647c3-0e88-4763-977b-6f234d451e10",
+    "country": "Albania",
+    "currency": "Leke",
+    "exchange_rate": 0.007038,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "74b7bf35-6a7b-4732-a899-e2b5ac24ff54",
+    "country": "Algeria",
+    "currency": "Algerian Dinar",
+    "exchange_rate": 0.005401,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "0053178a-01c9-4a01-8e88-a3fc8b2e88d2",
+    "country": "American Samoa",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "d8f73ae5-cba5-46be-8b4a-acb1869c6d83",
+    "country": "Andorra",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "4e998598-193f-42fd-ac8a-dc5cb69fd82c",
+    "country": "Angola",
+    "currency": "Kwanza",
+    "exchange_rate": 0.001136,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "1c70d337-fac9-4286-8cc9-38e20f77016a",
+    "country": "Anguilla",
+    "currency": "East Caribbean Dollar",
+    "exchange_rate": 0.268869,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "d7cd7b77-06d5-4c04-ae24-ac4f7b3bf98a",
+    "country": "Antarctica",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "868bccce-a4b5-441d-b1ee-5d7b7d8f4867",
+    "country": "Antigua and Barbuda",
+    "currency": "East Caribbean Dollar",
+    "exchange_rate": 0.268869,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "f10a46bc-018c-4717-84ed-b9b2a94aef44",
+    "country": "Argentina",
+    "currency": "Argentine Peso",
+    "exchange_rate": 0.007747,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "73bc12f7-ca7d-47f1-b36b-4a7b89856012",
+    "country": "Armenia",
+    "currency": "Dram",
+    "exchange_rate": 0.001435,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "99576b1c-780e-4083-a3fa-0ecf9a436189",
+    "country": "Aruba",
+    "currency": "Aruban Guilder",
+    "exchange_rate": 0.405556,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "db3160d9-b7cb-4057-9960-ea2f62c021de",
+    "country": "Australia",
+    "currency": "Australian Dollar",
+    "exchange_rate": 0.54743,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "ab6f92bf-1335-4066-9266-0dd123fd97c5",
+    "country": "Austria",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "1dcdb647-eb14-40d3-bda5-c750a283f223",
+    "country": "Azerbaijan",
+    "currency": "Azerbaijanian Manat",
+    "exchange_rate": 0.42725,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "a8145942-9eed-4b73-ac52-951e75a23d22",
+    "country": "Bahamas",
+    "currency": "Bahamian Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "d04614eb-0d69-46c0-87f9-602fb12d7be8",
+    "country": "Bahrain",
+    "currency": "Bahrain Dinar",
+    "exchange_rate": 1.925513,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "82939522-9591-4a5c-8398-2176ccc64757",
+    "country": "Bangladesh",
+    "currency": "Taka",
+    "exchange_rate": 0.008546,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "24849c64-318f-4c96-882b-421576c24fae",
+    "country": "Barbados",
+    "currency": "Barbados Dollar",
+    "exchange_rate": 0.362974,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "87b1285a-9016-4baa-84e5-a2e8dba050a2",
+    "country": "Belarus",
+    "currency": "Belarusian Ruble",
+    "exchange_rate": 0.28654,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "65d1c103-ef1c-4e8d-a440-a47e3f4d63de",
+    "country": "Belgium",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "9b5326e7-c8e4-4b83-a2cd-045784578ec4",
+    "country": "Belize",
+    "currency": "Belizean Dollar",
+    "exchange_rate": 0.362974,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "00c82936-f074-42b6-af1f-ae4e4c303871",
+    "country": "Benin",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "7db8619c-c32e-45bb-8f6b-6a5b99af93a7",
+    "country": "Bermuda",
+    "currency": "Bermudian Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 38215,
+    "higher_earning_threshold": 68785,
+    "fixed_monthly_repayment": "£281.40"
+  },
+  {
+    "id": "d8cabecf-1afc-40d1-af26-3f081ddc1ded",
+    "country": "Bhutan",
+    "currency": "Bhutanese Ngultrum",
+    "exchange_rate": 0.009834,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "64bcff35-cb5e-48be-a313-339d14889034",
+    "country": "Bolivia",
+    "currency": "Boliviano",
+    "exchange_rate": 0.105057,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "129edc85-96c4-4feb-88b6-91871c5ff926",
+    "country": "Bonaire, Saint Eustatius and Saba",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "676de8e8-ac10-46bb-9e93-438fa11d1e31",
+    "country": "Bosnia and Herzegovina",
+    "currency": "Convertible Marka",
+    "exchange_rate": 0.441065,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "4d2ef03c-6f61-4cf5-ba2e-de0d4d647815",
+    "country": "Botswana",
+    "currency": "Pula",
+    "exchange_rate": 0.065938,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "3a3bacdb-54cb-4fbf-afd5-5473648e0993",
+    "country": "Bouvet Island",
+    "currency": "Norwegian Krone",
+    "exchange_rate": 0.084674,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "07de60d1-34d1-4862-8b1a-e257bbc6e87e",
+    "country": "Brazil",
+    "currency": "Brazilian Real",
+    "exchange_rate": 0.135701,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "944ea148-e6ef-449c-9e01-91431f26c39c",
+    "country": "British Indian Ocean Territory",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "1e0cf968-f900-4889-9cd8-ff115ab09d77",
+    "country": "Brunei",
+    "currency": "Brunei Dollar",
+    "exchange_rate": 0.540913,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "7ccaa161-0481-4d97-95e6-5b9955ccb2e1",
+    "country": "Bulgaria",
+    "currency": "Bulgarian Lev",
+    "exchange_rate": 0.441023,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "241aa2df-2605-49a7-9398-90c7c28027a0",
+    "country": "Burkina Faso",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "864ee60a-2e91-411a-9fcc-2d748c21ca28",
+    "country": "Burundi",
+    "currency": "Burundi Franc",
+    "exchange_rate": 0.000368,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "a89ca77e-ee80-4694-b11c-0df51907b699",
+    "country": "Cambodia",
+    "currency": "Riel",
+    "exchange_rate": 0.000178,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "4ae48c87-6324-44be-b638-ff0f05d942cd",
+    "country": "Cameroon",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "ed8dd8bb-00a8-4e65-a3e2-33d168630f86",
+    "country": "Canada",
+    "currency": "Canadian Dollar",
+    "exchange_rate": 0.579607,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "7f9e54f5-31fc-4774-b258-2ffd10dbe1de",
+    "country": "Cape Verde",
+    "currency": "Cape Verde Escudo",
+    "exchange_rate": 0.007798,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "08ecc304-a5bd-4ab2-8968-c6dc46903210",
+    "country": "Cayman Islands",
+    "currency": "Cayman Islands Dollar",
+    "exchange_rate": 0.885308,
+    "lower_earning_threshold": 38215,
+    "higher_earning_threshold": 68785,
+    "fixed_monthly_repayment": "£281.40"
+  },
+  {
+    "id": "c757a264-36e2-42ed-b244-2f38ae7619df",
+    "country": "Central African Republic",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "2b7927d8-da71-4b53-980d-443f0b2daa05",
+    "country": "Chad",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "f1cd5f32-73a0-4e61-b178-8a63eec70509",
+    "country": "Channel Islands",
+    "currency": "British Pound",
+    "exchange_rate": 1,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "79b0b5ce-0fd0-4ff5-8b32-f38c6696e011",
+    "country": "Chile",
+    "currency": "Chilean Peso",
+    "exchange_rate": 0.000968,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "00d6750c-e30c-4ba2-a597-cd52d41e3417",
+    "country": "China",
+    "currency": "Yuan Renminbi",
+    "exchange_rate": 0.112256,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "5eac1766-32a7-4f1d-8ef5-d99b98a973b9",
+    "country": "Christmas Island",
+    "currency": "Australian Dollar",
+    "exchange_rate": 0.54743,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "2d9a08ce-c629-4eb7-abf5-27c15f5cc0b4",
+    "country": "Cocos (Keeling) Islands",
+    "currency": "Australian Dollar",
+    "exchange_rate": 0.54743,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "43ac1cf2-2643-4494-8bc9-174fe6e8663b",
+    "country": "Colombia",
+    "currency": "Colombian Peso",
+    "exchange_rate": 0.000196,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "702914f0-ba73-41ab-82bd-6e47de1125ae",
+    "country": "Comoros",
+    "currency": "Comorian Franc",
+    "exchange_rate": 0.001753,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "f2e99c1f-074c-469c-920f-9df9acc97ecb",
+    "country": "Congo",
+    "currency": "Congolese Franc",
+    "exchange_rate": 0.000366,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "45b212e7-9ea8-46b5-8a42-18f91a2bcef5",
+    "country": "Congo, Democratic Republic of",
+    "currency": "Congolese Franc",
+    "exchange_rate": 0.000366,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "9a25b74e-ad6e-4408-b5d8-ab39f12811ca",
+    "country": "Cook Islands",
+    "currency": "New Zealand Dollar",
+    "exchange_rate": 0.51445,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "15fdf368-623e-4a0c-b7b8-e49e7cef24ff",
+    "country": "Costa Rica",
+    "currency": "Costa Rican Colon",
+    "exchange_rate": 0.001175,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "d8ef8cee-e1e3-4480-9112-3c7a31b77a12",
+    "country": "Cote d’Ivoire",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "b6e41206-91d6-406a-8f48-3908a3b3d082",
+    "country": "Croatia",
+    "currency": "Kuna",
+    "exchange_rate": 0.114558,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "7762d1e9-f271-419b-b09c-fe9ea7f97753",
+    "country": "Cuba",
+    "currency": "Cuban Peso",
+    "exchange_rate": 0.725944,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "6651a189-94a5-4dec-92f2-b119b6bec0b1",
+    "country": "Curacao",
+    "currency": "Antillean Guilder",
+    "exchange_rate": 0.437573,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "2cf884fc-08d9-49ef-b651-85398da0e2cd",
+    "country": "Cyprus",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "91e7b940-6d8e-4592-a70c-89f117e39564",
+    "country": "Czech Republic",
+    "currency": "Czech Koruna",
+    "exchange_rate": 0.033572,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "4e857a13-a812-48c7-8851-9582ff1f95a3",
+    "country": "Denmark",
+    "currency": "Danish Krone",
+    "exchange_rate": 0.115989,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "03bf22cd-c862-40a1-b127-b18d8c94ae51",
+    "country": "Djibouti",
+    "currency": "Djiboutian Franc",
+    "exchange_rate": 0.004085,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "fb78489c-5bc4-47bb-b38a-4ed5c9fdae8c",
+    "country": "Dominica",
+    "currency": "East Caribbean Dollar",
+    "exchange_rate": 0.268869,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "e83722b6-9f93-474e-b5f7-22b4221c4bc0",
+    "country": "Dominican Republic",
+    "currency": "Dominican Peso",
+    "exchange_rate": 0.012706,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "94f258de-bb24-4161-930c-615722602b05",
+    "country": "Ecuador",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "3643636c-d8c8-4451-a6aa-dd7ddee3e440",
+    "country": "Egypt",
+    "currency": "Egyptian Pound",
+    "exchange_rate": 0.04625,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "d1502426-59af-4baf-a81f-b62440f767bb",
+    "country": "El Salvador",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "e2f6fbdd-4322-4c1b-9d20-e64fe07ae797",
+    "country": "Equatorial Guinea",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "47339938-67ff-402e-bd16-652d0eca8fe2",
+    "country": "Eritrea",
+    "currency": "Nafka",
+    "exchange_rate": 0.048409,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "a61785de-d7cd-41ad-9ab6-78735e38d8ea",
+    "country": "Estonia",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "01a0e57e-2af7-40a2-a356-3391e31e1256",
+    "country": "Ethiopia",
+    "currency": "Ethiopian Birr",
+    "exchange_rate": 0.016868,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "411d32a9-8e89-4f2f-a88d-137564906dfc",
+    "country": "Faeroe Islands",
+    "currency": "Danish Krone",
+    "exchange_rate": 0.115989,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "3846b242-0076-49c4-b3c8-3c8bfeeb99eb",
+    "country": "Falkland Islands",
+    "currency": "Falkland Pound",
+    "exchange_rate": 1,
+    "lower_earning_threshold": 38215,
+    "higher_earning_threshold": 68785,
+    "fixed_monthly_repayment": "£281.40"
+  },
+  {
+    "id": "a5989128-89b9-4966-8d6e-bd9d530ae235",
+    "country": "Federated States of Micronesia",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "7def20ab-d574-43a8-a867-ab8b30e487d5",
+    "country": "Fiji",
+    "currency": "Fiji Dollar",
+    "exchange_rate": 0.351982,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "b885e506-71a8-464a-a35c-aecf1763df37",
+    "country": "Finland",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "ff6ad686-8207-48b7-b8b3-771fd2d75312",
+    "country": "France",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "38f2e5f0-73c6-4713-9dca-6b0a5f6623c0",
+    "country": "French Guiana",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "1a319b59-de36-45ac-901c-0e778a3953ea",
+    "country": "French Polynesia",
+    "currency": "CFP Franc",
+    "exchange_rate": 0.007229,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "96adcf67-296c-4dcf-9e34-7c9a7fd0891a",
+    "country": "French Southern Territories",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "ceadcfa2-e89e-4a9a-bcdf-b91880b11cdd",
+    "country": "Gabon",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "0b254f58-7a2e-4fde-944d-3f5595696967",
+    "country": "Gambia",
+    "currency": "Dalasi",
+    "exchange_rate": 0.014105,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "456f499f-24a7-4da2-82fe-c612178ab1cc",
+    "country": "Georgia",
+    "currency": "Lari",
+    "exchange_rate": 0.224436,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "7011d9bc-c514-4d3e-9291-d64e75c7608f",
+    "country": "Germany",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "f1de8b2c-f0a1-44eb-9dc4-b809425c1b84",
+    "country": "Ghana",
+    "currency": "Ghanaian Cedi",
+    "exchange_rate": 0.123225,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "7f8b4719-5339-4ffd-a776-59f6e76b2b36",
+    "country": "Gibraltar",
+    "currency": "British Pound",
+    "exchange_rate": 1,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "689e0218-cf32-487c-a4e4-6c355fe5414e",
+    "country": "Greece",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "8c9a4f99-a74e-4cea-bc12-57c715b9d59b",
+    "country": "Greenland",
+    "currency": "Danish Krone",
+    "exchange_rate": 0.115989,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "8c3d10e9-29a9-4071-a5a4-7b569c342f76",
+    "country": "Grenada",
+    "currency": "East Caribbean Dollar",
+    "exchange_rate": 0.268869,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "b9e512b9-8fbf-4e4a-a8d9-1ab00d083139",
+    "country": "Guadeloupe",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "f5470bef-e14b-46d6-908e-2a0ad59279f1",
+    "country": "Guam",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "ee83c991-3dfe-42d3-916a-61ad13979da3",
+    "country": "Guatemala",
+    "currency": "Quetzal",
+    "exchange_rate": 0.093823,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "f49fe6b0-8e66-4608-afe9-d16a13fabfb5",
+    "country": "Guinea",
+    "currency": "Guinean Franc",
+    "exchange_rate": 0.000074,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "2bfb8db2-4678-4a9d-b89f-0b383726e307",
+    "country": "Guinea-Bissau",
+    "currency": "CFA Franc (BCEAO)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "dc2a46e9-7be1-4fd9-8f13-e508b0216ddb",
+    "country": "Guyana",
+    "currency": "Guyanese Dollar",
+    "exchange_rate": 0.003469,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "ddf2f692-20e1-4e8b-ae13-63146015feb1",
+    "country": "Haiti",
+    "currency": "Gourde",
+    "exchange_rate": 0.008364,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "86b461b0-789d-4307-abfa-549bb977ffe2",
+    "country": "Heard and McDonald Islands",
+    "currency": "Australian Dollar",
+    "exchange_rate": 0.54743,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "7912f4e3-b446-44a8-ad67-b9efed445a61",
+    "country": "Holy See (Vatican City State)",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "3819a0da-1851-422a-9cd0-b9f9566e2924",
+    "country": "Honduras",
+    "currency": "Lempira",
+    "exchange_rate": 0.030236,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "980778ff-27a4-48d0-ad1c-56acb2bb7be4",
+    "country": "Hong Kong",
+    "currency": "Hong Kong Dollar",
+    "exchange_rate": 0.093474,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "df4025e6-37c5-4d36-a3ee-9c2c8eab7e59",
+    "country": "Hungary",
+    "currency": "Forint",
+    "exchange_rate": 0.002412,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "be0e0106-c519-4889-b85f-4ce4b4002c0e",
+    "country": "Iceland",
+    "currency": "Icelandic Krona",
+    "exchange_rate": 0.005715,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "71411aea-89fa-4652-be25-419e434ab991",
+    "country": "India",
+    "currency": "Indian Rupee",
+    "exchange_rate": 0.009834,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "5cd95741-58db-4368-8b8f-9836a563717f",
+    "country": "Indonesia",
+    "currency": "Indonesian Rupiah",
+    "exchange_rate": 0.000051,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "cb5226e8-5b5e-45f4-9d23-12f81eb3c4e3",
+    "country": "Iran",
+    "currency": "Iranian Rial",
+    "exchange_rate": 0.000025,
+    "lower_earning_threshold": 5460,
+    "higher_earning_threshold": 9830,
+    "fixed_monthly_repayment": "£40.20"
+  },
+  {
+    "id": "3633fb4b-aabe-43e2-8d6d-631b7e689637",
+    "country": "Iraq",
+    "currency": "Iraqi Dinar",
+    "exchange_rate": 0.000505,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "6f5eda8e-4fd9-4871-9446-7b5a073244eb",
+    "country": "Ireland",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "bc5cb04d-9e42-4027-a096-5aeab397e276",
+    "country": "Isle of Man",
+    "currency": "British Pound",
+    "exchange_rate": 1,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "f9f9f6d6-3c3e-4461-ab04-a88941fbf67a",
+    "country": "Israel",
+    "currency": "New Israeli Shekel",
+    "exchange_rate": 0.224061,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "a532a58c-6c89-450c-bdf5-82ecaf8782ab",
+    "country": "Italy",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "0f4dfb8e-7efa-4e79-b108-7a4726e92496",
+    "country": "Jamaica",
+    "currency": "Jamaican Dollar",
+    "exchange_rate": 0.004843,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "0048ea98-af18-434e-bbbf-2957e6e30617",
+    "country": "Japan",
+    "currency": "Yen",
+    "exchange_rate": 0.006664,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "54778db0-cd97-4cdf-9c11-7ad2e0284ad4",
+    "country": "Jordan",
+    "currency": "Jordanian Dinar",
+    "exchange_rate": 1.023908,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "4234c1aa-f1c6-4936-a364-4d5b9c187de7",
+    "country": "Kazakhstan",
+    "currency": "Tenge",
+    "exchange_rate": 0.001707,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "7843810e-1399-4d61-b68c-965422415c78",
+    "country": "Kenya",
+    "currency": "Kenya Schilling",
+    "exchange_rate": 0.006619,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "a76aa210-8372-42ac-acee-026ad6fad3de",
+    "country": "Kiribati",
+    "currency": "Australian Dollar",
+    "exchange_rate": 0.54743,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "196c382e-388b-4246-b49d-892be0c00b4a",
+    "country": "Korea, Democratic People’s Republic of",
+    "currency": "Won Korea Dem. Rep",
+    "exchange_rate": 0.466523,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "dc3c6ead-d8a4-46b5-b3e8-042f00d469c6",
+    "country": "Korea, Republic of",
+    "currency": "Won Korea Rep",
+    "exchange_rate": 0.000637,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "e607c41f-7967-4a7a-9055-33d8b1c38b39",
+    "country": "Kuwait",
+    "currency": "Kuwaiti Dinar",
+    "exchange_rate": 2.404812,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "d3c379fc-9c69-4b1f-9ef1-d7d890110a0f",
+    "country": "Kyrgyztan Republic",
+    "currency": "Kyrgyzstan Som",
+    "exchange_rate": 0.008587,
+    "lower_earning_threshold": 5460,
+    "higher_earning_threshold": 9830,
+    "fixed_monthly_repayment": "£40.20"
+  },
+  {
+    "id": "06287108-27ab-4307-87d1-fc7429f3e9bb",
+    "country": "Lao PDR",
+    "currency": "Kip",
+    "exchange_rate": 0.000075,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "892c710d-1e5e-4915-9897-827bdbd87ba8",
+    "country": "Latvia",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "c414ca96-a86f-4291-912c-2782c2a1f1d0",
+    "country": "Lebanon",
+    "currency": "Lebanese Pound",
+    "exchange_rate": 0.000479,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "9cca9e26-0c94-485a-8446-862322e13167",
+    "country": "Lesotho",
+    "currency": "Loti",
+    "exchange_rate": 0.049493,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "d596b755-e762-44e4-9ff4-0e529e34a9c7",
+    "country": "Liberia",
+    "currency": "Liberian Dollar (US Dollar in use)",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "c52a6838-6e9e-4a87-aad9-10dad1702c17",
+    "country": "Libya",
+    "currency": "Libyan Dinar",
+    "exchange_rate": 0.171041,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "00b92713-9a15-45f1-8dfa-26041177b747",
+    "country": "Liechtenstein",
+    "currency": "Swiss Franc",
+    "exchange_rate": 0.795434,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "ac0404dd-3874-4fab-a28f-109503010383",
+    "country": "Lithuania",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "f94c16d2-8345-430d-9476-9b5282dc8e33",
+    "country": "Luxembourg",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "9d3f7830-ff64-418b-89b5-80618c313d24",
+    "country": "Macau",
+    "currency": "Patacas",
+    "exchange_rate": 0.090758,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "b2d77502-cf89-4381-bbe7-c55be359e4f0",
+    "country": "Macedonia (Former Yugoslav Republic)",
+    "currency": "Macedonian Denar",
+    "exchange_rate": 0.014011,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "f5a037dc-b391-4f14-aaa1-01eab206a46d",
+    "country": "Madagascar",
+    "currency": "Malagasy Ariary",
+    "exchange_rate": 0.000189,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "dd066723-c6f6-431c-bd66-519a307fb460",
+    "country": "Malawi",
+    "currency": "Malawi Kwacha",
+    "exchange_rate": 0.000911,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "7b5f4378-b733-4c80-96f9-c121541d542a",
+    "country": "Malaysia",
+    "currency": "Ringgit",
+    "exchange_rate": 0.175306,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "761c78a1-9c30-462d-921a-4bce829f36ac",
+    "country": "Maldives",
+    "currency": "Rufiyaa",
+    "exchange_rate": 0.047039,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "ffeeb072-4b9f-46ca-af8e-25de512e9f71",
+    "country": "Mali",
+    "currency": "CFA Franc (BCEAO)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "ffd6741a-023d-4628-a6d0-c4e3fefa791a",
+    "country": "Malta",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "be59833d-b018-4436-b383-feeffcf0d608",
+    "country": "Marshall Islands",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "1d28315d-2569-4684-ba93-1043d2177215",
+    "country": "Martinique",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "16b3506a-ffd7-49fa-9fc3-f01ebf11b3f0",
+    "country": "Mauritania",
+    "currency": "Ouguiyas",
+    "exchange_rate": 0.01997,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "c22feb3c-1044-408e-8ab7-e2efeb6c5989",
+    "country": "Mauritius",
+    "currency": "Mauritius Rupee",
+    "exchange_rate": 0.017617,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "a51b032b-4801-41dd-85b7-34e0eade5c70",
+    "country": "Mayotte",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "66133de7-ddcd-4547-bdec-4de9bfa1531e",
+    "country": "Mexico",
+    "currency": "Mexican Peso",
+    "exchange_rate": 0.035972,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "d8529655-3f2e-47b7-b71f-7fa765dbe8bd",
+    "country": "Moldova",
+    "currency": "Moldovan Leu",
+    "exchange_rate": 0.041097,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "87e3beb1-7c15-47aa-94c9-56334f2ce94d",
+    "country": "Monaco",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "ee769853-c9cd-4913-9d46-4da988ab6b6a",
+    "country": "Mongolia",
+    "currency": "Tugrik",
+    "exchange_rate": 0.000255,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "0e6955a6-a879-4cc0-b8d0-a2e526efec7b",
+    "country": "Montenegro",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "97ec288d-8422-478f-ad46-b6427599aa31",
+    "country": "Montserrat",
+    "currency": "East Caribbean Dollar",
+    "exchange_rate": 0.268869,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "a667666d-9db2-4c37-bbb5-04bd68c45f3a",
+    "country": "Morocco",
+    "currency": "Moroccan Dirham",
+    "exchange_rate": 0.080939,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "f951f12d-7b67-40e2-80a6-dfe43f0e9e5b",
+    "country": "Mozambique",
+    "currency": "Metical",
+    "exchange_rate": 0.010985,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "2b573f32-6e9a-4318-9535-856c9a417f21",
+    "country": "Myanmar",
+    "currency": "Kyat",
+    "exchange_rate": 0.000459,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "e7fba086-6a6a-4e46-b334-fe447fa32658",
+    "country": "Namibia",
+    "currency": "Namibian Dollar",
+    "exchange_rate": 0.049493,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "448d2b84-29a2-4a7a-abd5-8f9b2cf85a87",
+    "country": "Nauru",
+    "currency": "Australian Dollar",
+    "exchange_rate": 0.54743,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "eaf8cf90-bf32-44e6-97f6-40318c48d915",
+    "country": "Nepal",
+    "currency": "Nepalese Rupee",
+    "exchange_rate": 0.006146,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "03efc098-2598-4494-976c-086a03c5f0e7",
+    "country": "Netherlands",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "478ebee3-ade5-47ca-8b00-a0d3d8b14e14",
+    "country": "New Caledonia",
+    "currency": "CFP Franc",
+    "exchange_rate": 0.007229,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "813d2836-f344-448c-a766-b0d882dd173a",
+    "country": "New Zealand",
+    "currency": "New Zealand Dollar",
+    "exchange_rate": 0.51445,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "6e99b4ba-30b9-484b-af2a-130dbd95f0e6",
+    "country": "Nicaragua",
+    "currency": "Gold Cordoba",
+    "exchange_rate": 0.020703,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "26c941c9-8456-4ef5-8ea3-eee3cbbbc3a1",
+    "country": "Niger",
+    "currency": "CFA Franc (BCEAO)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "c0dc7251-321f-4c89-ae78-424e06e8cad8",
+    "country": "Nigeria",
+    "currency": "Nigerian Naira",
+    "exchange_rate": 0.001778,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "e530c199-667d-47c5-85c9-b82897cad963",
+    "country": "Niue",
+    "currency": "New Zealand Dollar",
+    "exchange_rate": 0.51445,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "7e1bd919-d71a-45da-9e3d-56226561801f",
+    "country": "Norfolk Island",
+    "currency": "Australian Dollar",
+    "exchange_rate": 0.54743,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "61f6d2cc-a6e8-4ab7-a0a7-c257b25ecf08",
+    "country": "Northern Mariana Islands",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "5c020057-43db-4823-8935-f77ccbf33690",
+    "country": "Norway",
+    "currency": "Norwegian Krone",
+    "exchange_rate": 0.084674,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "4dfbf840-4bb7-4670-aeeb-830720343128",
+    "country": "Oman",
+    "currency": "Rial Omani",
+    "exchange_rate": 1.885697,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "f56dd55a-1c36-430b-b19c-8041022f8de5",
+    "country": "Pakistan",
+    "currency": "Pakistan Rupee",
+    "exchange_rate": 0.004492,
+    "lower_earning_threshold": 5460,
+    "higher_earning_threshold": 9830,
+    "fixed_monthly_repayment": "£40.20"
+  },
+  {
+    "id": "8eab5f1f-db72-4d15-aea6-7574dfbc554c",
+    "country": "Palau",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "e3690c80-d8cc-42f5-b7fb-512398e499af",
+    "country": "Palestine (Occupied Territory)",
+    "currency": "New Israeli Shekel",
+    "exchange_rate": 0.224061,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "4850fe33-0a4e-4364-a74b-3c3c1500e9c8",
+    "country": "Panama",
+    "currency": "Balboas",
+    "exchange_rate": 0.725944,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "09be9000-2fe6-41ef-b0b2-a34014db06e1",
+    "country": "Papua New Guinea",
+    "currency": "Kina",
+    "exchange_rate": 0.206634,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "434f3b57-7193-4b1b-ae25-142270c4850a",
+    "country": "Paraguay",
+    "currency": "Guarani",
+    "exchange_rate": 0.000107,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "9e6a92c5-936f-42ed-acd6-ca1433b8fbf1",
+    "country": "Peru",
+    "currency": "New Sol",
+    "exchange_rate": 0.188978,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "023e02fa-7000-4ffa-a29b-4fff91e63df7",
+    "country": "Philippines",
+    "currency": "Philippine Peso",
+    "exchange_rate": 0.014748,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "8c5f8868-6176-442b-81fc-52d7ca09dc3f",
+    "country": "Pitcairn",
+    "currency": "New Zealand Dollar",
+    "exchange_rate": 0.51445,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "375e45d8-7a84-4901-823b-bcf25b47fee8",
+    "country": "Poland",
+    "currency": "Zloty",
+    "exchange_rate": 0.189158,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "94a08845-8299-40bb-871f-4445a6f85672",
+    "country": "Portugal",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "d890eab5-07a5-4502-b2a4-7a8d88fd4a52",
+    "country": "Puerto Rico",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "c4208025-7987-4408-9e7e-95fee477e53c",
+    "country": "Qatar",
+    "currency": "Qatar Riyal",
+    "exchange_rate": 0.199368,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "10886c7c-349a-4c50-b9e0-058255b8b7b5",
+    "country": "Reunion",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "492488c5-749f-45cc-8ecd-a4e2f4bda124",
+    "country": "Romania",
+    "currency": "Romanian Leu",
+    "exchange_rate": 0.175487,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "07e414a9-fa56-4918-969c-f9eb6a7f6af3",
+    "country": "Russian Federation",
+    "currency": "Russian Ruble",
+    "exchange_rate": 0.009768,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "17a5aa53-59b1-42a4-9a9c-df30201bc738",
+    "country": "Rwanda",
+    "currency": "Rwanda Franc",
+    "exchange_rate": 0.00073,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "46daef5e-cd2c-4edd-95ab-7b71c5a160ee",
+    "country": "Saint Helena",
+    "currency": "Saint Helena Pound",
+    "exchange_rate": 1,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "1e5ab079-6a47-40a4-885b-8e70217baa95",
+    "country": "Saint Kitts and Nevis",
+    "currency": "East Caribbean Dollar",
+    "exchange_rate": 0.268869,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "a8a98dc4-c97d-4f71-9b4c-d7cf23d58a9b",
+    "country": "Saint Lucia",
+    "currency": "East Caribbean Dollar",
+    "exchange_rate": 0.268869,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "5ac022f5-3a1f-4d27-a56a-f98609781869",
+    "country": "Saint Martin (French part)",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "5849774a-2b39-4f93-a8c4-841100b46205",
+    "country": "Saint Pierre and Miquelon",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "d553afee-9d7c-4919-bc66-4cc4ba8c6bc1",
+    "country": "Saint Vincent and Grenadines",
+    "currency": "East Caribbean Dollar",
+    "exchange_rate": 0.268869,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "b17dcce2-60b2-44cf-a52a-f4b7b16045cd",
+    "country": "Saint-Barthelemy",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "d9b6620c-0f42-42a8-92be-08fac03808f8",
+    "country": "Samoa",
+    "currency": "Tala",
+    "exchange_rate": 0.285093,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "506b42c3-416d-49f8-8cdd-9b251d263795",
+    "country": "San Marino",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "2d2567d4-633d-4d14-8d82-76987ac7387e",
+    "country": "Sao Tome and Principe",
+    "currency": "Dobras",
+    "exchange_rate": 0.000035,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "e3ba173c-fb25-4059-81a4-5bab2a2cab80",
+    "country": "Saudi Arabia",
+    "currency": "Saudi Riyal",
+    "exchange_rate": 0.193548,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "56f867da-9793-4144-a67c-8f96921df57a",
+    "country": "Senegal",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "59f96d0d-daf6-4446-b4d6-f3d530205ed5",
+    "country": "Serbia",
+    "currency": "Serbian Dinar",
+    "exchange_rate": 0.007338,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "7825f8cf-d172-4fe7-86d6-e6a497417555",
+    "country": "Seychelles",
+    "currency": "Seychelles Rupee",
+    "exchange_rate": 0.042085,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "deece676-431b-4d45-9dc0-be8ace4cc78e",
+    "country": "Sierra Leone",
+    "currency": "Leone",
+    "exchange_rate": 0.00007,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "aaf9dff3-d71a-4ab2-9523-afee636e5e87",
+    "country": "Singapore",
+    "currency": "Singapore Dollar",
+    "exchange_rate": 0.540913,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "b0ffd34d-91ec-412c-a004-4fc4f597ef5b",
+    "country": "Sint Maarten (Dutch part)",
+    "currency": "Antilles Guilder",
+    "exchange_rate": 0.437573,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "01426985-d4ca-410f-b58d-555bd78450de",
+    "country": "Slovakia",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "530638e0-596c-4f5b-8934-e85c26b1509a",
+    "country": "Slovenia",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "7db05f2e-3663-4886-9e66-da9796e041ae",
+    "country": "Solomon Islands",
+    "currency": "Solomon Islands Dollar",
+    "exchange_rate": 0.090484,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "e3490da5-04c4-4455-9061-cc4819deaaa8",
+    "country": "Somalia",
+    "currency": "Somali Shilling",
+    "exchange_rate": 0.001241,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "a1e00757-d209-4b9e-9dd8-dc1c225a6711",
+    "country": "South Africa",
+    "currency": "Rand",
+    "exchange_rate": 0.049493,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "ddba8b08-2a5b-4f77-81d3-1632aab1a535",
+    "country": "South Georgia and the South Sandwich Islands",
+    "currency": "British Pound",
+    "exchange_rate": 1,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "bd283eb4-f7e6-49a9-beae-0d273d22ff26",
+    "country": "South Sudan",
+    "currency": "Sudanese Pound",
+    "exchange_rate": 0.002377,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "98e4157f-4b17-4a2d-87c5-a91b4657d02b",
+    "country": "Spain",
+    "currency": "Euro",
+    "exchange_rate": 0.862639,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "6673172c-c0cb-49b6-a36e-2a56e4574ca6",
+    "country": "Sri Lanka",
+    "currency": "Sri Lankan Rupee",
+    "exchange_rate": 0.003685,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "412ff772-8596-48dc-95b8-13bfae05189d",
+    "country": "Sudan",
+    "currency": "Sudanese Pound",
+    "exchange_rate": 0.002377,
+    "lower_earning_threshold": 5460,
+    "higher_earning_threshold": 9830,
+    "fixed_monthly_repayment": "£40.20"
+  },
+  {
+    "id": "e7df4347-14b0-4216-9f5b-a2cc574cb978",
+    "country": "Suriname",
+    "currency": "Surinam Dollar",
+    "exchange_rate": 0.04108,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "0c532074-998e-450d-9756-f758aab5d423",
+    "country": "Svalbard and Jan Mayen Islands",
+    "currency": "Norwegian Krone",
+    "exchange_rate": 0.084674,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "2c77136d-a380-4008-a591-a650e4108a76",
+    "country": "Swaziland",
+    "currency": "Lilangeni",
+    "exchange_rate": 0.049493,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "fd58e2ad-0ae6-4696-8889-1996507db36a",
+    "country": "Sweden",
+    "currency": "Swedish Krona",
+    "exchange_rate": 0.085161,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "3509cbc8-e62b-4ef6-855e-0fc8386a2949",
+    "country": "Switzerland",
+    "currency": "Swiss Franc",
+    "exchange_rate": 0.795434,
+    "lower_earning_threshold": 38215,
+    "higher_earning_threshold": 68785,
+    "fixed_monthly_repayment": "£281.40"
+  },
+  {
+    "id": "9a3c2a39-d621-4b73-8c65-24e7f18af0e6",
+    "country": "Syria",
+    "currency": "Syrian Pound",
+    "exchange_rate": 0.00399,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "f5755543-a202-4b25-b7c1-c29b09fc3fce",
+    "country": "Taiwan",
+    "currency": "Taiwan Dollar",
+    "exchange_rate": 0.025927,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "9529f50d-6092-48aa-928a-5dbb94298062",
+    "country": "Tajikistan",
+    "currency": "Somoni",
+    "exchange_rate": 0.12336,
+    "lower_earning_threshold": 5460,
+    "higher_earning_threshold": 9830,
+    "fixed_monthly_repayment": "£40.20"
+  },
+  {
+    "id": "6dcdf635-aaef-4b33-b25b-8803c8d08af1",
+    "country": "Thailand",
+    "currency": "Thai Baht",
+    "exchange_rate": 0.022848,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "060ec402-cb71-489c-a786-eb628a4eadb4",
+    "country": "Timor-Leste",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "6b0e17e9-56bd-444f-a715-9bc043c7cab5",
+    "country": "Togo",
+    "currency": "CFA Franc (BEAC)",
+    "exchange_rate": 0.001315,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "3ce18176-5910-49b5-a29f-d3d67bb12fc5",
+    "country": "Tokelau",
+    "currency": "New Zealand Dollar",
+    "exchange_rate": 0.51445,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "a1a4b51a-f9dd-450d-bb65-8e2ba4ce412b",
+    "country": "Tonga",
+    "currency": "Pa’anga",
+    "exchange_rate": 0.5599,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "40ca7aed-4085-475a-81c5-c162856cbb9b",
+    "country": "Trinidad and Tobago",
+    "currency": "Trinidad & Tobago Dollar",
+    "exchange_rate": 0.107405,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "3a9f0409-75aa-4fa5-b371-3a2b5ac6344d",
+    "country": "Tunisia",
+    "currency": "Tunisian Dinar",
+    "exchange_rate": 0.262176,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "9a430a51-3213-47e7-8ffe-6547f1babeff",
+    "country": "Turkey",
+    "currency": "Turkish New Lira",
+    "exchange_rate": 0.086362,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "6647bad3-54a8-41e3-bec2-e354c9e3a539",
+    "country": "Turkmenistan",
+    "currency": "Turkmenistan New Manat",
+    "exchange_rate": 0.207093,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "8cb4d5f3-d073-451e-ae12-26df85e695ec",
+    "country": "Turks and Caicos Islands",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "2320c248-2a74-41e7-86c0-ec65d63bb934",
+    "country": "Tuvalu",
+    "currency": "Australian Dollar",
+    "exchange_rate": 0.54743,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "ad0249fb-8565-4863-ac9a-b4521f117fda",
+    "country": "Uganda",
+    "currency": "Ugandan New Shilling",
+    "exchange_rate": 0.000202,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "01c5c6e9-b4f9-49a3-b5de-2c904923cfd9",
+    "country": "Ukraine",
+    "currency": "Hryvnia",
+    "exchange_rate": 0.02656,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "38ad5c42-1d6b-49b3-a625-3146dd8883dd",
+    "country": "United Arab Emirates",
+    "currency": "U.A.E. Dirham",
+    "exchange_rate": 0.197637,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "79739e72-ff0a-44f0-af3d-ff1866852c92",
+    "country": "United Kingdom",
+    "currency": "British Pound",
+    "exchange_rate": 1,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "fac37e8a-d158-4d8e-a54e-afbe47f71f7b",
+    "country": "United republic of Tanzania",
+    "currency": "Tanzanian Shilling",
+    "exchange_rate": 0.000313,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "f5e4fd44-4441-4593-b662-faa665993404",
+    "country": "United States of America",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "bd578390-d281-435e-930d-fc6ccac6c566",
+    "country": "Uruguay",
+    "currency": "Uruguayan Peso",
+    "exchange_rate": 0.016707,
+    "lower_earning_threshold": 21840,
+    "higher_earning_threshold": 39305,
+    "fixed_monthly_repayment": "£160.80"
+  },
+  {
+    "id": "e17e8303-f32f-4bfa-a1f0-1b86fa10a86f",
+    "country": "Uzbekistan",
+    "currency": "Uzbekistan Sum",
+    "exchange_rate": 0.000069,
+    "lower_earning_threshold": 5460,
+    "higher_earning_threshold": 9830,
+    "fixed_monthly_repayment": "£40.20"
+  },
+  {
+    "id": "fcc6b2d3-5f09-4287-a169-b49198ff19e1",
+    "country": "Vanuatu",
+    "currency": "Vatu",
+    "exchange_rate": 0.006577,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "cb9901a0-e8ae-452b-87ba-13231ef1e6b1",
+    "country": "Venezuela",
+    "currency": "Bolivar Fuerte",
+    "exchange_rate": 0.000003,
+    "lower_earning_threshold": 16380,
+    "higher_earning_threshold": 29480,
+    "fixed_monthly_repayment": "£120.60"
+  },
+  {
+    "id": "7b016eb7-33ef-445e-b4fe-3d56593f8504",
+    "country": "Vietnam",
+    "currency": "Dong",
+    "exchange_rate": 0.000032,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "41a08553-b485-4638-8115-2caf41d6022f",
+    "country": "Virgin Islands (British)",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "472b37c8-64df-452c-904d-324132f980cd",
+    "country": "Virgin Islands (US)",
+    "currency": "U.S. Dollar",
+    "exchange_rate": 0.72594,
+    "lower_earning_threshold": 32755,
+    "higher_earning_threshold": 58960,
+    "fixed_monthly_repayment": "£241.20"
+  },
+  {
+    "id": "e3e45bc1-b8ef-404b-b180-cbcfbcef2f8b",
+    "country": "Wallis and Futuna Islands",
+    "currency": "CFP Franc",
+    "exchange_rate": 0.007229,
+    "lower_earning_threshold": 27295,
+    "higher_earning_threshold": 49130,
+    "fixed_monthly_repayment": "£201.00"
+  },
+  {
+    "id": "2f8febc6-c98a-4794-aee5-bb6fc49de437",
+    "country": "Western Sahara",
+    "currency": "Moroccan Dirham",
+    "exchange_rate": 0.080939,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "358019f9-8fa8-40e6-9429-e3dcfe2da938",
+    "country": "Yemen",
+    "currency": "Yemeni Rial",
+    "exchange_rate": 0.002888,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "bcd19e81-5125-4932-9540-24d4da54738a",
+    "country": "Zambia",
+    "currency": "Zambian Kwacha",
+    "exchange_rate": 0.035465,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  },
+  {
+    "id": "9532286a-26b8-4782-8d5f-d3a71d003f0b",
+    "country": "Zimbabwe",
+    "currency": "Zimbabwean Dollar",
+    "exchange_rate": 0.002006,
+    "lower_earning_threshold": 10920,
+    "higher_earning_threshold": 19655,
+    "fixed_monthly_repayment": "£80.40"
+  }
+]

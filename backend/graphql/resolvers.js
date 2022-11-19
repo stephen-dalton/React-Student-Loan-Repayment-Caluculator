@@ -1,5 +1,5 @@
-import { countryCol } from "../database.js";
-
+// import { countryCol } from "../database.js";
+import { getOverSeasThresholdData } from "../functions/getUndergraduateThresholds.js";
 async function getCountry(args) {
   try {
     const countryToFind = await countryCol.findOne({ country: args.country });
@@ -17,7 +17,7 @@ async function getCountry(args) {
 
 async function getAllCountries() {
   try {
-    const allCountries = await countryCol.find({}).toArray();
+    const allCountries = await getOverSeasThresholdData();
     if (!allCountries) {
       return new Error("Oops...Something Went Wrong. Please Try Again");
     }
