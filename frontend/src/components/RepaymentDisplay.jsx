@@ -1,12 +1,10 @@
 import React from "react";
 
-function RepaymentDisplay({
-  UGRepaymentAmount,
-  canNotRepay,
-  hasPostGradLoan,
-  pgRepaymentAmount,
-}) {
-  if (canNotRepay)
+function RepaymentDisplay({ UGRepaymentAmount }) {
+  if (UGRepaymentAmount === null) {
+    return <></>;
+  }
+  if (UGRepaymentAmount === 0)
     return (
       <section className="container mx-auto mt-5 w-11/12 rounded bg-white/50 py-3 pb-5 backdrop-blur sm:w-6/12 md:w-8/12 lg:w-6/12">
         <div className="text-center">
@@ -30,16 +28,6 @@ function RepaymentDisplay({
           undergraduate monthly repayment
         </p>
       </div>
-      {hasPostGradLoan && pgRepaymentAmount > 0 && (
-        <div className="item mt-5 rounded bg-white/50 text-center">
-          <p className="font-sans text-8xl font-bold text-slate-300">
-            £{pgRepaymentAmount}
-          </p>
-          <p className="uppercase text-slate-300">
-            postgraduate monthly repayment
-          </p>
-        </div>
-      )}
     </section>
   );
 }
