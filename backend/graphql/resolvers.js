@@ -1,10 +1,10 @@
-// import { countryCol } from "../database.js";
-import { getUndergraduateOverSeasThresholdData } from "../functions/getUndergraduateThresholds.js";
-import { getPostGradOverSeasThresholdData } from "../functions/getPostgraduateThresholds.js";
-import { countryCol } from "../database.js";
-async function getCountry(args) {
+import { studentLoanDatabse } from "../database.js";
+
+async function getUndergraduateCountry(args) {
   try {
-    const countryToFind = await countryCol.findOne({ country: args.country });
+    const countryToFind = await studentLoanDatabse
+      .collection("ug_overseas_thresholds")
+      .findOne({ country: args.country });
     console.log(countryToFind);
     if (!countryToFind) {
       return new Error(
@@ -18,9 +18,12 @@ async function getCountry(args) {
   }
 }
 
-async function getAllCountries() {
+async function getUndergraduateCountries() {
   try {
-    const allCountries = await getUndergraduateOverSeasThresholdData();
+    const allCountries = await studentLoanDatabse
+      .collection("ug_overseas_thresholds")
+      .find()
+      .toArray();
     if (!allCountries) {
       return new Error("Oops...Something Went Wrong. Please Try Again");
     }
@@ -31,9 +34,11 @@ async function getAllCountries() {
   }
 }
 
-async function getPGCountry(args) {
+async function getPostgraduateCountry(args) {
   try {
-    const countryToFind = await getPostGradOverSeasThresholdData(args.country);
+    const countryToFind = await await studentLoanDatabse
+      .collection("pg_overseas_thresholds")
+      .findOne({ country: args.country });
     if (!countryToFind) {
       return new Error(
         `${args.country} was not found. Please try a different country`
@@ -46,4 +51,4 @@ async function getPGCountry(args) {
   }
 }
 
-export { getCountry, getAllCountries, getPGCountry };
+export { getUndergraduateCountry, getUndergraduateCountries, getPostgraduateCountry };

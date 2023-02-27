@@ -14,7 +14,8 @@ app.use(
   graphqlHTTP({
     schema: schema,
     rootValue: root,
-    graphiql: true,
+    graphiql: { headerEditorEnabled: true },
+    pretty: true,
   })
 );
 
