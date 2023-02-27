@@ -24,6 +24,8 @@ export default function SalaryInput({ handleSubmission }) {
   function handleFormSubmission(e) {
     e.preventDefault();
     handleSubmission(userSalary, userCountry);
+    setUserCountry({ country: "" });
+    setUserSalary(0);
   }
   /**
    * Component States
